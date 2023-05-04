@@ -27,7 +27,7 @@ Impostos: ISS/ICMS, PIS/PASEP, COFINS, IRPJ e CSLL.
 
 
 
-## Lucro Real
+### Lucro Real
 
 O Lucro Real é usado para o cálculo e a coleta de suas alíquotas com base no lucro líquido obtido a partir das receitas e despesas, gerados no período.
 O cálculo do lucro é feito com base no valor do faturamento menos as despesas do negócio, dentro do mesmo período. Ou seja, diferente do Lucro Presumido em que os impostos são cobrados a partir de uma presunção do lucro.
@@ -35,7 +35,7 @@ A adesão é obrigatória para empresas que possuem um faturamento superior a R$
 No caso do IRPJ, a alíquota sobre o lucro real é de 15% para empresas que apresentam até R$20 mil de lucro mensal. Para empreendimentos que ultrapassam esse valor, a alíquota é de 15% sobre o lucro acrescidos de 10% sobre o valor que excede R$20 mil. Quando se trata da CSLL (Contribuição Social sobre o Lucro Líquido) a alíquota é diferente: 9% sobre qualquer montante de lucro apurado no período. Dentre todas as mudanças de alíquotas na opção pelo Lucro Real, está o PIS, que passa a ser de 1,65% (e não mais 0,65%), e o Cofins que chega a 7,6% (de 3%) sobre as receitas.
 Impostos:  IRPJ, CSLL, PIS, COFINS
 
-
+##
 
 ### Impostos:
 
