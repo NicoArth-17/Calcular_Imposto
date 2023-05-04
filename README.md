@@ -29,9 +29,15 @@ Impostos: ISS/ICMS, PIS/PASEP, COFINS, IRPJ e CSLL.
 
 ## Lucro Real
 
+O Lucro Real é usado para o cálculo e a coleta de suas alíquotas com base no lucro líquido obtido a partir das receitas e despesas, gerados no período.
+O cálculo do lucro é feito com base no valor do faturamento menos as despesas do negócio, dentro do mesmo período. Ou seja, diferente do Lucro Presumido em que os impostos são cobrados a partir de uma presunção do lucro.
+A adesão é obrigatória para empresas que possuem um faturamento superior a R$ 78 milhões no ano.
+No caso do IRPJ, a alíquota sobre o lucro real é de 15% para empresas que apresentam até R$20 mil de lucro mensal. Para empreendimentos que ultrapassam esse valor, a alíquota é de 15% sobre o lucro acrescidos de 10% sobre o valor que excede R$20 mil. Quando se trata da CSLL (Contribuição Social sobre o Lucro Líquido) a alíquota é diferente: 9% sobre qualquer montante de lucro apurado no período. Dentre todas as mudanças de alíquotas na opção pelo Lucro Real, está o PIS, que passa a ser de 1,65% (e não mais 0,65%), e o Cofins que chega a 7,6% (de 3%) sobre as receitas.
+Impostos:  IRPJ, CSLL, PIS, COFINS
 
+<h>_ _
 
- Impostos:
+### Impostos:
 
  - ISS (Imposto Sobre Serviços de Qualquer Natureza ou ISSQN): é cobrado em cada serviço pontual prestado pelo autônomo. O valor é recolhido no momento em que ele emite a nota fiscal referente à sua atividade. A alíquota do ISS é estabelecida pelo município e pode variar de 2% a 5%, dependendo do enquadramento da empresa e do tipo de serviço prestado. O destino do ISS não é determinado de maneira específica, pois ele vai para os cofres da cidade e passa a fazer parte do orçamento geral. Cada município define as regras para utilização do valor arrecadado por meio desse tributo.
 
@@ -45,8 +51,10 @@ Impostos: ISS/ICMS, PIS/PASEP, COFINS, IRPJ e CSLL.
 
 - CSLL (Contribuição Social sobre Lucro Líquido): De acordo com a legislação em vigor, todas as empresas brasileiras são obrigadas a contribuir para a CSLL, é uma das fontes de recursos da Seguridade Social – que inclui previdência social, assistência social e saúde pública.. Para o cálculo da CSLL, a taxa que é aplicada sobre o lucro líquido da empresa é de 9% para pessoas jurídicas em geral, podendo chegar a 15% no caso das empresas consideradas instituições financeiras, de seguros privados e de capitalização. 
 
-- CPP (Contribuição Patronal Previdenciária):
+- CPP (Contribuição Patronal Previdenciária): é paga por todas as empresas optantes pelo Simples Nacional. O valor da contribuição varia de acordo com a atividade econômica exercida e os valores pagos a título de salário para empregados, pró-labore para os sócios e remuneração de autônomos. Ou seja, O CPP do Simples Nacional é cobrado sobre o total de remuneração que são pagas por sua empresa durante o mês.Trata-se de um tributo federal destinado ao financiamento da Previdência Social.
 
-- IPI (Imposto sobre Produtos Industrializados):
+- IPI (Imposto sobre Produtos Industrializados): Já as empresas que optam pela modalidade do Simples Nacional custeiam seus tributos (inclusive o IPI) em um único documento de faturamento. No entanto, algumas taxas de IPI podem ser cobradas separadamente, como para mercadorias importadas. A taxa de arrecadação para empresas do Simples Nacional muda de acordo com a receita bruta de cada empresa.
+Toda vez que uma mercadoria deixa as fábricas, o IPI é cobrado. A partir daí, podemos concluir que qualquer mudança no valor das alíquotas desse imposto, irá resultar no aumento ou redução do preço final de um produto.
 
-- INSS (Instituto Nacional do Seguro Social):
+
+- INSS (Instituto Nacional do Seguro Social): É a contribuição que o empresário paga para colaborar com a Seguridade Social da população, ajudando a custear alguns serviços básicos como saúde, previdência e assistência social. No total, trata-se de 31% de INSS Empresa. Desse modo, 11% é recolhido de cada empregado e 20% sobre a folha de pagamento.
